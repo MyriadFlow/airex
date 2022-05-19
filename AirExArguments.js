@@ -1,0 +1,1 @@
+module.exports = ["Augmented Interactive Reality Experiences", "AIREX", "Augmented Interactive Reality Experiences by MyriadFlow", "ipfs://myIPFShash", "ipfs://QmbZdmmorDaHQnh2b37yaq2ehjEEymP4nj3N7rMrhzvrER/", 137];
